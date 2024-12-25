@@ -1,5 +1,5 @@
 load "stdlib.ring"
 
 
-system("ringpm run main.ring")
+system("ringpm run RingThreadPro")
 
