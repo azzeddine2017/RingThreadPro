@@ -1,4 +1,4 @@
-load "../RingThreadPro.ring"
+load "RingThreadPro.ring"
 load "sockets.ring"
 
 # Chat Server using ThreadManager
