@@ -42,10 +42,11 @@ func DisplayBanner
         sleep(LINE_DELAY)
     next
 
-    # Display subtitle with different color
+    # Display subtitle with different color //
     ? ""
     see Tab + cc_print(CC_FG_BLUE | CC_BG_NONE, "╔═══════ Professional Threading Library ═══════╗") + nl
-    see Tab + cc_print(CC_FG_WHITE | CC_BG_NONE, "      Developed for Ring Language v1.22      ") + nl
+    see Tab + cc_print(CC_FG_WHITE | CC_BG_NONE, "      Developed for Ring Language v1.22       ") + nl
+    see Tab + cc_print(CC_FG_WHITE | CC_BG_NONE, " See the folder: ring/libraries/RingThreadPro ") + nl
     see Tab + cc_print(CC_FG_BLUE | CC_BG_NONE, "╚═════════════════════════════════════════════╝") + nl
     ? ""
 
