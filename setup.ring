@@ -1,4 +1,4 @@
-load "lib.ring"
+load "stdlib.ring"
 
 
 system("ringpm run main.ring")
