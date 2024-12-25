@@ -15,9 +15,9 @@ aPackageInfo = [
 	],
 	:libs = 	[
 		[
-			:name = "threads.ring",
-			:version = "",
-			:providerusername = ""
+			:name = "ringthreads",
+			:version = "1.0.4",
+			:providerusername = "ringpackages"
 		]
 	],
 	:files = 	[
@@ -26,7 +26,7 @@ aPackageInfo = [
 		"setup.ring"
 	],
 	:ringfolderfiles = 	[
-        "bin/load/RingThreadPro.ring",
+       		"bin/load/RingThreadPro.ring",
 		"libraries/RingThreadPro/example/ThreadAdvancedExample.ring",
 		"libraries/RingThreadPro/example/ThreadExample.ring",
 		"libraries/RingThreadPro/example/ThreadPoolExample.ring",
