@@ -1,6 +1,6 @@
 # The Main File
 
-load "lib.ring"
+load "stdlib.ring"
 
 func main
 
