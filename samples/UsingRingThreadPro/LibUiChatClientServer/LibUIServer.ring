@@ -1,6 +1,6 @@
 load "libui.ring"
 load "sockets.ring"
-load "../RingThreadPro.ring"
+load "RingThreadPro.ring"
 load "stdlib.ring"
 
 
