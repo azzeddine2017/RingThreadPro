@@ -30,17 +30,17 @@ oThreads.destroy()
 
 1. Basic Thread Example:
 ```ring
-load "ThreadExample.ring"
+example/ThreadExample.ring
 ```
 
 2. Advanced Threading:
 ```ring
-load "ThreadAdvancedExample.ring"
+example/ThreadAdvancedExample.ring
 ```
 
 3. Thread Pool:
 ```ring
-load "ThreadPoolExample.ring"
+example/ThreadPoolExample.ring
 ```
 
 ## Features
